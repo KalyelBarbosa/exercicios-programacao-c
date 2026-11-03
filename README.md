@@ -1,2 +1,3 @@
-# exercicios-programacao-c
-Exercícios e atividades desenvolvidos durante meus estudos de programação em C na FHO.
+# Exercícios de Cálculos em C
+
+Nesta pasta estão exercícios desenvolvidos durante as aulas de programação, envolvendo operações matemáticas, variáveis e entrada de dados.
