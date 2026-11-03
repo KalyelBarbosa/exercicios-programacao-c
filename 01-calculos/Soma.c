@@ -3,7 +3,6 @@ int main()
 {
     int v1, v2, total; 
     
-
     scanf("%d", &v1);
     scanf("%d", &v2);
 
